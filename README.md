@@ -2,7 +2,7 @@
 React Social Media Tunisia SocialBook
 Le projet un site web qui permet aux utilisateurs de créer et de rejoindre des événements sociaux en Tunisie . 
 Il utilise la technologie React pour le frontend et Express.js pour le backend . 
-la base de données utilisé MongoDB.  
+la base de donnée utilisé MongoDB.  
 les fonctions : login ,inscription , publication ,etc . 
 
 ![interface1](https://github.com/Aym2016/ReactJsNodeEventSocial-Tunisia-SocialBook/assets/42209140/300f6e49-798b-4973-b234-8c58eeb5f65d)
